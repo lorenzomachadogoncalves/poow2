@@ -1,0 +1,2 @@
+ALTER TABLE membro DROP COLUMN uuid;
+ALTER TABLE funcionario DROP COLUMN uuid;
